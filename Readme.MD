@@ -1,7 +1,8 @@
 ## Insight-Hire ( A Interview Feedback Sentiment Analyser)
 
 ### Description
-Insight Hire is a powerful tool designed to streamline the interview evaluation process by leveraging the power of OpenAI's language models. It allows you to analyze interview transcripts or videos and gain valuable insights into a candidate's sentiment based on customizable parameters. With this tool, you can make more informed hiring decisions and identify top candidates who demonstrate genuine positive sentiment towards the role and the company.
+Insight Hire is a powerful tool designed to streamline the interview evaluation process by leveraging the power of OpenAI's language models. It allows you to analyze interview transcripts or videos and gain valuable insights into a candidate's sentiment based on customizable parameters. With this tool, you can make more informed hiring decisions and identify top candidates who demonstrate genuine positive sentiment towards the role and the company. Checkout the project at [https://insight-hire.streamlit.app/](https://insight-hire.streamlit.app/)
+
 
 ### Features
 - **Sentiment Analysis**: Evaluate candidate sentiment based on customizable parameters such as enthusiasm, communication skills, technical knowledge, and more.
