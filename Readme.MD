@@ -9,6 +9,11 @@ Insight Hire is a powerful tool designed to streamline the interview evaluation 
 - **Detailed Feedback**: Get detailed feedback with specific examples, quotes, and actionable insights to support the hiring team's decisions.
 - **Video Transcription**: Seamlessly transcribe interview videos using OpenAI's Whisper API for sentiment analysis.
 
+### Real-Life Use Cases
+- **Hiring Managers**: Quickly assess the sentiment of candidates in interviews to make better-informed hiring decisions.
+- **Recruitment Agencies**: Streamline the interview process by providing clients with detailed sentiment analysis and feedback on candidates.
+- **HR Departments**: Enhance the interview process by incorporating sentiment analysis to identify the best cultural and technical fit for the company.
+
 ### Usage
 1. Clone the repository: `git clone https://github.com/your-repo/insight-hire.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
@@ -26,11 +31,5 @@ We welcome contributions to improve Insight Hire! If you'd like to fork the proj
 4. Push your changes to the branch: `git push origin my-new-feature`
 5. Submit a pull request detailing your changes.
 
-### Acknowledgments
-We would like to express our gratitude to the following projects and resources:
-
-- **Streamlit**: For providing an excellent framework for building data-driven web applications.
-- **OpenAI**: For their powerful language models and APIs, including GPT-3.5-turbo and Whisper.
-- **pytube**: For simplifying the process of downloading and processing YouTube videos.
-
-We appreciate the open-source community and the invaluable contributions made by developers worldwide. Thank you for making projects like Insight Hire possible!
+## Contribut
+Feel free to make changes and contribute
