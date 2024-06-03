@@ -6,6 +6,7 @@ import tempfile
 from fpdf import FPDF
 # Set your OpenAI API key
 openai_api_key = st.secrets["general"]["OPENAI_API_KEY"]
+openai.api_key = openai_api_key
 
 
 def generate_sentiment_score(input_text, parameters):
