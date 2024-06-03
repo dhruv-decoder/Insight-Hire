@@ -1,4 +1,4 @@
-## Project: Insight Hire
+##Insight Hire (Interview Feedback Sentiment Analysis)
 
 ### Description
 Insight Hire is a powerful tool designed to streamline the interview evaluation process by leveraging the power of OpenAI's language models. It allows you to analyze interview transcripts or videos and gain valuable insights into a candidate's sentiment based on customizable parameters. With this tool, you can make more informed hiring decisions and identify top candidates who demonstrate genuine positive sentiment towards the role and the company.
@@ -31,5 +31,3 @@ We welcome contributions to improve Insight Hire! If you'd like to fork the proj
 4. Push your changes to the branch: `git push origin my-new-feature`
 5. Submit a pull request detailing your changes.
 
-## Contribut
-Feel free to make changes and contribute
