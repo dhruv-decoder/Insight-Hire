@@ -1,19 +1,26 @@
 ## Insight-Hire ( A Interview Feedback Sentiment Analyser)
 
 ### Description
-Insight Hire is a powerful tool designed to streamline the interview evaluation process by leveraging the power of OpenAI's language models. It allows you to analyze interview transcripts or videos and gain valuable insights into a candidate's sentiment based on customizable parameters. With this tool, you can make more informed hiring decisions and identify top candidates who demonstrate genuine positive sentiment towards the role and the company. Checkout the project at [https://insight-hire.streamlit.app/](https://insight-hire.streamlit.app/)
+I've developed a powerful sentiment analysis tool called "Insight Hire" that leverages cutting-edge natural language processing and machine learning techniques to streamline the interview evaluation process. This application analyzes interview transcripts or videos and provides valuable insights into a candidate's sentiment, enabling hiring teams to make more informed decisions.
+Insight Hire utilizes OpenAI's state-of-the-art language models (GPT-3.5 and Whisper) for sentiment analysis and transcript generation. It offers a user-friendly Streamlit interface, allowing users to input text or YouTube video links and receive data-driven sentiment scores, detailed feedback, and downloadable reports.  
+
+## Deployment
+ Check out the app in the links below . Feel free to provide any feedback or suggestions.
+
+- [Hugging Face Spaces]( https://huggingface.co/spaces/DhruvDecoder/Insight-Hire)
+- [Streamlit Sharing](https://dhruvdecoder-insight-hire.streamlit.app/)
 
 
 ### Features
-- **Sentiment Analysis**: Evaluate candidate sentiment based on customizable parameters such as enthusiasm, communication skills, technical knowledge, and more.
-- **Sentiment Scores**: Receive quantitative sentiment scores on a scale of 1-5 for each parameter, allowing for easy comparison and evaluation.
-- **Detailed Feedback**: Get detailed feedback with specific examples, quotes, and actionable insights to support the hiring team's decisions.
-- **Video Transcription**: Seamlessly transcribe interview videos using OpenAI's Whisper API for sentiment analysis.
+- **Sentiment Analysis**: Get data-driven sentiment scores for key parameters such as enthusiasm, communication skills, and technical knowledge.
+- **Transcript Generation**: Automatically generate transcripts from YouTube interview videos using OpenAI's Whisper API.
+- **Detailed Feedback**: Receive in-depth feedback on the candidate's responses, including specific examples and actionable insights.
+- **Download Options**: Download the detailed feedback as a .txt or .pdf file for easy sharing and archiving.
+
 
 ### Real-Life Use Cases
-- **Hiring Managers**: Quickly assess the sentiment of candidates in interviews to make better-informed hiring decisions.
-- **Recruitment Agencies**: Streamline the interview process by providing clients with detailed sentiment analysis and feedback on candidates.
-- **HR Departments**: Enhance the interview process by incorporating sentiment analysis to identify the best cultural and technical fit for the company.
+Insight Hire can be a valuable tool for HR professionals and hiring teams to evaluate candidate sentiment during interviews. By analyzing interview transcripts or videos, the application provides objective insights and feedback, enabling more informed hiring decisions.
+
 
 ### Usage
 1. Clone the repository: `git clone https://github.com/your-repo/insight-hire.git`
@@ -31,4 +38,5 @@ We welcome contributions to improve Insight Hire! If you'd like to fork the proj
 3. Make your changes and commit them: `git commit -am 'Add some feature'`
 4. Push your changes to the branch: `git push origin my-new-feature`
 5. Submit a pull request detailing your changes.
+
 
