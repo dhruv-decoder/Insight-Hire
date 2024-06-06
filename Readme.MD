@@ -1,11 +1,11 @@
-## Insight-Hire ( A Interview Feedback Sentiment Analyser)
+## Insight-Hire
 
 ### Description
 I've developed a powerful sentiment analysis tool called "Insight Hire" that leverages cutting-edge natural language processing and machine learning techniques to streamline the interview evaluation process. This application analyzes interview transcripts or videos and provides valuable insights into a candidate's sentiment, enabling hiring teams to make more informed decisions.
 Insight Hire utilizes OpenAI's state-of-the-art language models (GPT-3.5 and Whisper) for sentiment analysis and transcript generation. It offers a user-friendly Streamlit interface, allowing users to input text or YouTube video links and receive data-driven sentiment scores, detailed feedback, and downloadable reports.  
 
 ## Deployment
- Check out the app in the links below . Feel free to provide any feedback or suggestions.
+ Check out the app in any of the links below .Any feedbacks or suggestionsare welcome.
 
 - [Hugging Face Spaces]( https://huggingface.co/spaces/DhruvDecoder/Insight-Hire)
 - [Streamlit Sharing](https://dhruvdecoder-insight-hire.streamlit.app/)
