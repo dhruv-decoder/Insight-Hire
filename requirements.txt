@@ -1,4 +1,5 @@
 streamlit
 pytube
-openai==0.28
+requests
 fpdf
+together
